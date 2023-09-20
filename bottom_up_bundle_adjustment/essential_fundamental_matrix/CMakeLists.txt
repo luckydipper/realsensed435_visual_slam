@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.1)
+
+project(essential_fundamental_matrix)
+
+add_subdirectory(test_two_img_randering)
+add_subdirectory(rander_FAST_RANSAC_feature_matching)
